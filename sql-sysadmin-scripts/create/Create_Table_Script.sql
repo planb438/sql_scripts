@@ -1,6 +1,7 @@
 CREATE TABLE employees (
-    id INT PRIMARY KEY,
-    name VARCHAR(100),
-    department VARCHAR(50),
+    employee_id INT PRIMARY KEY,
+    first_name VARCHAR(50),
+    last_name VARCHAR(50),
+    email VARCHAR(100),
     hire_date DATE
 );

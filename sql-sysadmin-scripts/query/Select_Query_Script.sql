@@ -1,1 +1,1 @@
-SELECT * FROM employees WHERE department = 'IT';
+SELECT * FROM employees;
