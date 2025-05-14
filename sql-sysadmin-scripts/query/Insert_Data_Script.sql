@@ -1,0 +1,1 @@
+INSERT INTO employees (id, name, department, hire_date) VALUES (1, 'Jane Doe', 'IT', CURDATE());
