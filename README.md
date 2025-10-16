@@ -1,3 +1,9 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Ubuntu%2022.04%2B-lightgrey)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-MicroK8s%20%7C%20kubeadm-blue)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-TechShorts-red)](https://www.youtube.com/@techshorts-p3z)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adari%20Bain-blue)](https://www.linkedin.com/in/adari-bain-298924152/)
+
 # 🗃️ SQL Scripts Collection
 
 This repository contains a set of **SQL scripts** for working with relational databases such as **MySQL**, **PostgreSQL**, and **SQLite**. These scripts are designed for learning, automation, and real-world use cases like reporting, migrations, and data cleanup.
